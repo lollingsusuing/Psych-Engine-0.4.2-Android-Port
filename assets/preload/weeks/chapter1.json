@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Our-Leader", "neomiku", [212, 87, 87]],
+		["Cb", "valen", [40, 40, 40]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "chapter1",
+
+	"storyName": "Test",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
