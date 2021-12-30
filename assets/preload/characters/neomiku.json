@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				101
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Neomiku Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				90
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Neomiku Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				106
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Neomiku Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				83
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Neomiku Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-57,
+				91
+			],
+			"fps": 17,
+			"anim": "idle",
+			"indices": [],
+			"name": "Neomiku Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Neomiku_assets",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "neomiku",
+	"flip_x": false,
+	"healthbar_colors": [
+		212,
+		87,
+		87
+	],
+	"camera_position": [
+		0,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}
